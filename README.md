@@ -12,6 +12,7 @@ python3 -m venv venv
 source venv/bin/activate 
 ```
 *NB : to deactivate virtual environment run : deactivate*
+
 2. Install PyQt and Qt Designer
 ```
 python3 -m pip install --upgrade pip
